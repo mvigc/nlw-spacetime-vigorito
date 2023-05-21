@@ -81,7 +81,7 @@ font-size: 0.75rem; /*muda px para rem pois vai seguir o comando de root e tem q
   border-radius: 8px;
 }
 .memoria:hover img{ /*passar mouse*/
-transform: scale(1.1);
+transform: scale(1.0);
 }
 .memoria p{
   font-size: 1.2rem;
